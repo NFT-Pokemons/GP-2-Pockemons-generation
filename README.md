@@ -6,7 +6,7 @@
 Картинки Покемонов были переведены в текст, и "скормлены" нейросети. 
 Кол-во эпох - 250000.
 
-## Некоторые "красивые" сгенерированные Покемоны
+## Некоторые "красивые" [сгенерированные](https://drive.google.com/drive/folders/1P-M-oQKPNrTK31DSnBierWhPrNuwnTq7?usp=sharing) Покемоны
 ![image](https://drive.google.com/uc?export=view&id=11GWaPB69MZwv-PdjxyRMaRbD6TqfY0gT)
 ![image](https://drive.google.com/uc?export=view&id=11YsgkksMoCvrRztCKjm85crWTZgpfZ5a)
 ![image](https://drive.google.com/uc?export=view&id=1-obA_YZq8LFYAbpEjs1PMDiJouETsZ1H)
